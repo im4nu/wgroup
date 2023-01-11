@@ -12,7 +12,7 @@ module.exports = {
       'secondary-default': '#ffff',
     },
     backgroundImage: {
-      'hero': "url('./pages/assets/images/bg.png')",
+      'hero': "url('../pages/assets/images/bg.png')",
     },
     extend: {},
   },
